@@ -30,7 +30,7 @@ I'm a computer engineering student based in Nepal, passionate about building int
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirdesh-timilsina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=nirdesh-timilsina&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirdesh-timilsina&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
