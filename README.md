@@ -6,12 +6,11 @@ I'm a computer engineering student based in Nepal, passionate about building int
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - Building strong foundations in **Machine Learning** algorithms and techniques
 - Working with real datasets to solve practical problems
 - Exploring **backend development** with FastAPI and RESTful APIs
-- Contributing to open-source projects and collaborative learning
 
 ## 💻 Tech Stack
 
