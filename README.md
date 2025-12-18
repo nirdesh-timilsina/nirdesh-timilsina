@@ -30,18 +30,18 @@ I'm a computer engineering student based in Nepal, passionate about building int
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirdesh-timilsina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirdesh-timilsina&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=nirdesh-timilsina&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirdesh-timilsina&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirdesh-timilsina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborations, learning opportunities, and discussions. Feel free to reach out for potential research opportunities or internships!
+I'm always open to collaborations, learning opportunities, and discussions about ML/data projects. Feel free to reach out for potential research opportunities or internships!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirdeshtimilsina)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirdesh-timilsina)
